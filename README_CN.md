@@ -5,6 +5,16 @@
 - [截图预览](README_PREVIEW.md)
 - [演示站点](http://www.dootask.com/)
 
+## 🙋 升级到Pro版本
+
+```bash
+# Pro版本现已发布，可通过一下命令免费升级至Pro版本
+
+git checkout -b pro origin/pro
+./cmd up -d
+./cmd update
+```
+
 **QQ交流群**
 
 - QQ群号: `546574618`

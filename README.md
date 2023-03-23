@@ -5,6 +5,16 @@ English | **[中文文档](./README_CN.md)**
 - [Screenshot Preview](README_PREVIEW.md)
 - [Demo site](http://www.dootask.com/)
 
+## 🙋 Upgrade to Pro version
+
+```bash
+# The Pro version is now available and can be upgraded to the Pro version for free with the following command
+
+git checkout -b pro origin/pro
+./cmd up -d
+./cmd update
+```
+
 **QQ Group**
 
 Group No.: `546574618`
